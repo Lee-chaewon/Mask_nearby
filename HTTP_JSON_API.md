@@ -43,10 +43,10 @@ HTTP_JSON_API
  * 종류
    * SOAP: Simple Object Access Protocol
    * REST Representational State Transfer
-    * REpresentational State Transfer
-    * 하나의 아키텍쳐 (지침과 원칙 부여)
-    * REST의 구성요소
-     * 자원
-     * 행위
-     * 표현
+     * REpresentational State Transfer
+     * 하나의 아키텍쳐 (지침과 원칙 부여)
+     * REST의 구성요소
+       * 자원
+       * 행위
+       * 표현
    * GraphQL: Graph Query Language
